@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 - 🔍 Passionate about **Data Science, AI, ML, NLP**
-- 💡 Love solving real-world problems with data-driven solutions  
+- 💡 Love solving real-world problems through data-driven approaches  
 - 🧠 Strong in **Python, SQL, Machine Learning, Power BI**
-- 📊 Interested in **analytics, predictive modelling & dashboards**
+- 📊 Enthusiastic about **analytics, modelling & visualization**
 
 ---
 
@@ -46,40 +46,34 @@ Prof. Ram Meghe Institute of Technology and Research, Amravati
 
 ### 📌 **Data Analytics Internship (Apr 2025 – May 2025)**
 - Built an interactive **Netflix Dashboard** using Power BI & Excel  
-- Visualized viewer trends, genre performance, country-wise distribution
+- Visualized viewer trends, genre distribution, and performance insights  
 
 ### 📌 **Eduskills Virtual Internships (2023–2025)**
-- Completed programs in:  
-  ✔ AI & ML  
+- Programs completed:  
+  ✔ Artificial Intelligence & Machine Learning  
   ✔ Generative AI  
   ✔ Android Development  
   ✔ Cloud Networking  
-- Built real-world projects & improved technical & analytical skills
+- Worked on real-world mini projects & improved technical problem-solving skills  
 
 ---
 
 ## 📂 Projects
 
 ### 🔹 **Spam Email Detection (2024)**
-- Built an NLP spam classifier with Scikit-learn  
-- Achieved **95% accuracy** using advanced preprocessing & feature extraction
+- Built an NLP spam classifier using Python & Scikit-learn  
+- Achieved **95% accuracy** through preprocessing & model tuning  
 
 ### 🔹 **Car Price Prediction (2025)**
-- Used Linear Regression & Random Forest  
-- Predicted car values using brand, mileage, engine capacity, etc.
+- Implemented Linear Regression & Random Forest models  
+- Predicted prices based on mileage, brand, engine capacity, year, etc.
 
 ---
 
 ## 📜 Certifications
 - **NPTEL** — Python for Data Science, Data Science for Engineers  
 - **Rinex** — Python & Artificial Intelligence  
-- **Spoken Tutorial, IIT Bombay** — Java & Python  
-
----
-
-## 🏆 Achievements
-- 🥇 **First Prize** — Institute-Level Quiz Competition  
-- 🥈 **Second Prize** — Poster Competition  
+- **Spoken Tutorial (IIT Bombay)** — Java & Python training  
 
 ---
 
@@ -97,12 +91,12 @@ Prof. Ram Meghe Institute of Technology and Research, Amravati
 ---
 
 ## 📫 Contact Me
-
 📞 **Phone:** 8530811809  
-📧 **Email:** *your email here*  
-🔗 **LinkedIn:** *your LinkedIn link*  
-🐙 **GitHub:** *your GitHub link*  
+📧 **Email:** your email here  
+🔗 **LinkedIn:** your LinkedIn link  
+🐙 **GitHub:** your GitHub profile link  
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile! Feel free to explore my projects.*  
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*  
+ 
